@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 1rem;
+  line-height: 0;
+  background: white;
+  border-bottom: 1px solid $grey;
+  z-index: 9999;
+}
